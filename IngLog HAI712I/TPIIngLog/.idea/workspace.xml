@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4dfb96a-1fab-4820-8cdc-f462bac69d1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/commons/IAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/commons/ICabinet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/commons/IDossier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/commons/IDossier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Cabinet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Dossier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Dossier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Espece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Espece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/Hello.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/Hello.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/Hello.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloBaseListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloBaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloLexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloLexer.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloLexer.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloParser$RContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/src/dictionary/AbstractDico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/src/dictionary/FastDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/src/dictionary/OrderedDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractDico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FastDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FastDictionaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrderedDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrderedDictionaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortedDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UtilisationDictionnaire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/commons/IAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/commons/IAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/client/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/client/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/commons/IAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/commons/IAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/security/security.policy" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/security/security.policy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/server/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/server/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/server/Animal_Stub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/server/Animal_Stub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/server/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/server/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/security/security.policy" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/security/security.policy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/.idea/TP1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/src/dictionary/AbstractDico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/src/dictionary/FastDictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/src/dictionary/IDictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/src/dictionary/OrderedDictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/bin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/bin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/bin/serveur" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/bin/serveur" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/client.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/client.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/obj/client.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/obj/client.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/obj/serveur.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/obj/serveur.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/serveur.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2WI3mf0LjyAmrcoorOf3I8swxe0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/sio/Escritorio/M1/Compilation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="UtilisationDictionnaire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UtilisationDictionnaire" />
+      <module name="TPIIngLog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UtilisationDictionnaire" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4dfb96a-1fab-4820-8cdc-f462bac69d1a" name="Changes" comment="" />
+      <created>1696406429005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696406429005</updated>
+      <workItem from="1696406430341" duration="4089000" />
+      <workItem from="1696492355689" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

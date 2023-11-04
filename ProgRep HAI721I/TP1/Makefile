@@ -3,11 +3,11 @@
 ########################################
 
 # Executables à générer
-BIN=bin/client  bin/serveur
+BIN=bin/client  bin/server
 
 # liste des fichiers sources 
 SRCS0=client.c
-SRCS1=serveur.c
+SRCS1=server.c
 
 default: $(BIN)
 
@@ -21,7 +21,7 @@ obj/%.o: %.c
 bin/client: $(SRCS0:%.c=obj/%.o)
 	gcc -o $@ $+
 
-bin/serveur: $(SRCS1:%.c=obj/%.o)
+bin/server: $(SRCS1:%.c=obj/%.o)
 	gcc -o $@ $+
 
 clean:

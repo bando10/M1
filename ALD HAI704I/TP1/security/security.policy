@@ -1,6 +1,8 @@
 grant {
 	permission java.security.AllPermission;
 };
+
+
 //-Djava.rmi.server.codebase=file:/chemin/vers/votre/code
 /*grant codebase "file:/chemin/vers/votre/code" {
       permission java.io.FilePermission "/tmp/test.txt", "read";

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96275505-48bf-468e-9259-d952a07e244b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/commons/IAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/commons/ICabinet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/commons/IDossier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/commons/IDossier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Cabinet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Dossier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Dossier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Espece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Espece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Compilation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/BinOp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/Cte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/Div.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArith.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArith.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArith.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArith.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithAST.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithAST.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithAST.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTBaseListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTBaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTLexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTLexer.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTLexer.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTParser$AdditionExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTParser$AtomExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTParser$ExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTParser$MultiplyExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithASTTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithBaseListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithBaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEval.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEval.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEval.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalBaseListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalBaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalLexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalLexer.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalLexer.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalParser$AdditionExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalParser$AtomExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalParser$ExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalParser$MultiplyExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithEvalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithLexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithLexer.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithLexer.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithList.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithList.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithList.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListBaseListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListBaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListLexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListLexer.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListLexer.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListParser$AdditionExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListParser$AtomExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListParser$ExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListParser$ListExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListParser$MultiplyExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithParser$AdditionExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithParser$AtomExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithParser$ExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithParser$MultiplyExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/ExprArithParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/Hello.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/Hello.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/Hello.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/HelloBaseListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/HelloBaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/HelloLexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/HelloLexer.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/HelloLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/HelloLexer.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/HelloListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/HelloListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/HelloParser$RContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/HelloParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/HelloParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/Inv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/Mul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Corrections de cours/Sub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/Hello.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/Hello.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/Hello.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloBaseListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloBaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloLexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloLexer.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloLexer.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloParser$RContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/Hello/HelloParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/Bool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/Callee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/Int.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PP.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PP.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PP.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPAnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPArrayAlloc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPArrayGet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPArraySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPAssign.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPBaseListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPBaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPBinOp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPCond.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPCte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPDef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPDiv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPEq.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPExpr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPFalse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPFun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPFunCall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPGe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPGt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPInst.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPInv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPLe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPLexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPLexer.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPLexer.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPLt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPMul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPNe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPNot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPOr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$AddContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$AllocContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$AndContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$ArrayContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$AssignTabContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$AssignVarContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$BinOpContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$CalleeContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$ConstContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$DeclarationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$DivContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$EqContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$ExprBoolContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$ExprContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$ExprNumContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$FalseContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$FunCallContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$FuncNameContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$FunctionContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$GoeContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$GtContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$IfContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$InstrContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$InstruContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$InvContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$LoeContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$LtContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$MulContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$NotContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$NumContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$OrContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$PairContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$ProcessCallContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$ProgramContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$ReadContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$SeqContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$SkipInstrContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$SubContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$TabGetContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$TrueContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$TypeBaseContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$TypeContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$UnOpContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$VarNameContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$WhileContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser$WriteContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPProc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPProcCall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPProg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPSeq.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPSkip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPSub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPTrue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPUnOp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPVar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/PPWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/Read.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/PP/Write.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/RTL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/UPP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/raro/PP(PP).java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Compilation/raro/PP(hello).java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/.idea/TP1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/src/dictionary/AbstractDico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/src/dictionary/FastDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP1/src/dictionary/OrderedDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPIIngLog/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPIIngLog/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPIIngLog/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPIIngLog/TPIIngLog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPIIngLog/src/AbstractDico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPIIngLog/src/FastDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPIIngLog/src/FastDictionaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPIIngLog/src/IDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPIIngLog/src/OrderedDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPIIngLog/src/OrderedDictionaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPIIngLog/src/SortedDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TPIIngLog/src/UtilisationDictionnaire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/commons/IAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/commons/IAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/client/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/client/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/commons/IAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/commons/IAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/security/security.policy" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/security/security.policy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/server/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/server/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/server/Animal_Stub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/server/Animal_Stub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/server/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/out/production/TP1/server/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/security/security.policy" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/security/security.policy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALD HAI704I/TP1/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/.idea/TP1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/src/dictionary/AbstractDico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/src/dictionary/FastDictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/src/dictionary/IDictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HAI712I/TP1/src/dictionary/OrderedDictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/bin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/bin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/bin/serveur" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/bin/serveur" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/client.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/client.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/obj/client.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/obj/client.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/obj/serveur.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/obj/serveur.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgRep HAI721I/TP1/serveur.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2WW5Bf5bwsPn5zLBmV789UgoU7x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/sio/Escritorio/M1/ALD HAI704I/TP2-Hotel",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96275505-48bf-468e-9259-d952a07e244b" name="Changes" comment="" />
+      <created>1696835368644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696835368644</updated>
+      <workItem from="1696835369687" duration="2481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

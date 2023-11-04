@@ -9,5 +9,8 @@ public interface IAnimal extends Remote {
     String getRace() throws RemoteException;
     String getEspece() throws RemoteException;
     String StringAnimal() throws RemoteException;
+    String getDossier() throws RemoteException;
+
+    void setDossier(String etat, String detail) throws RemoteException;
 } 
 
