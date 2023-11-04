@@ -17,6 +17,7 @@ int main( int argc,char* argv[]){
     }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   /* Je teste le passage de parametres. Le nombre et la nature des
      paramètres sont à adapter en fonction des besoins. Sans ces
      paramètres, l'exécution doit être arrétée, autrement, elle
@@ -80,6 +81,22 @@ char m[1000];
     addr_client.sin_addr.s_addr=INADDR_ANY;
     addr_client.sin_port=htons(atol(argv[3]));
 
+=======
+    //Création socket client: 
+    int client_sock=socket(PF_INET, SOCK_STREAM, 0);
+    if(client_sock==-1){
+        perror("socket failed");
+        exit(1);
+    }
+    printf("client: socket created \n");
+
+    //nommage socket client:
+    struct sockaddr_in addr_client;
+    addr_client.sin_family=AF_INET;
+    addr_client.sin_addr.s_addr=INADDR_ANY;
+    addr_client.sin_port=htons(atol(argv[3]));
+
+>>>>>>> 967a785ecd84175a4c65dc29ca93e9c66ac24522
     int res=bind(client_sock,(struct sockaddr*)&addr_client,sizeof(addr_client));
     if(res==-1){
         perror("bind failed");
@@ -135,6 +152,9 @@ char m[1000];
         exit(1);
     }
     printf("serv: message reçu: \n %s \n",msg);
+<<<<<<< HEAD
+>>>>>>> 967a785ecd84175a4c65dc29ca93e9c66ac24522
+=======
 >>>>>>> 967a785ecd84175a4c65dc29ca93e9c66ac24522
 
 

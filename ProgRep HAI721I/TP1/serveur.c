@@ -9,6 +9,7 @@
 #include "commons.h"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 int main(int argc, char *argv[]) {
 if (argc != 2){
     printf("utilisation : %s port_serveur\n", argv[0]);
@@ -86,6 +87,16 @@ int main( int argc,char* argv[]){
         exit(1);
     }
 
+=======
+int main( int argc,char* argv[]){
+
+    //Verification arguments: 
+    if(argc!=2){
+        printf("utilisation : %s num_port_serv \n",argv[0]);
+        exit(1);
+    }
+
+>>>>>>> 967a785ecd84175a4c65dc29ca93e9c66ac24522
     //Création socket serveur: 
     int serv_sock=socket(PF_INET, SOCK_STREAM, 0);
     if(serv_sock==-1){
@@ -162,4 +173,7 @@ int main( int argc,char* argv[]){
 
 
 }
+<<<<<<< HEAD
+>>>>>>> 967a785ecd84175a4c65dc29ca93e9c66ac24522
+=======
 >>>>>>> 967a785ecd84175a4c65dc29ca93e9c66ac24522
